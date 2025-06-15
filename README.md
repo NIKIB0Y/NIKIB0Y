@@ -5,7 +5,7 @@ I'm a student developer from Germany currently preparing for my **Abitur (Class 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, PHP, Java, Python
+- **Languages:** HTML, CSS, PHP, Java, Python, SQL, Bash
 - **Interests:** Web development, cybersecurity, online privacy, Monero, Tor, open-source
 
 ---
