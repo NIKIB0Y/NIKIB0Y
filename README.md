@@ -24,11 +24,12 @@ If you're working on something cool and think I could be a good fit — feel fre
 
 ---
 
+### 💬 Quote I Live By
+> ✨ **"Code is a tool. Freedom is the goal."** ✨
+
+---
+
 ### 📫 Let's Connect
 Feel free to reach out via:
 - 📧 Email: *[coming.soon@itwill.com]*
 - 🌐 My personal website/portfolio: *[coming.soon.com]*
-
----
-
-> *"Code is a tool. Freedom is the goal."*
