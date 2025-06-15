@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Niklas
 
-<!--
-**NIKIB0Y/NIKIB0Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer from Germany currently preparing for my **Abitur (Class of 2027)**. I’m passionate about coding, cybersecurity, and privacy-respecting technologies — and always eager to learn more.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** HTML, CSS, PHP, Java, Python
+- **Interests:** Cybersecurity, Monero, Tor, online privacy, open-source, web development
+
+---
+
+### 📌 What I'm Looking For
+I'm currently looking for **internships** where I can contribute, learn from real-world projects, and grow as a developer — ideally in areas related to **privacy tech**, **cybersecurity**, or **web development**.
+
+If you're working on something cool and think I could be a good fit — feel free to reach out!
+
+---
+
+### 💡 Fun Facts
+- ♟️ I love chess — both playing and studying strategy.
+- 🏔️ I'm into hiking and mountaineering. I like reaching new heights — in code and in nature.
+- 🧠 Self-driven learner always exploring new tech and tools.
+
+---
+
+### 📫 Let's Connect
+Feel free to reach out via:
+- 📧 Email: *[coming.soon@itwill.com]*
+- 🌐 My personal website/portfolio: *[coming.soon.com]*
+
+---
+
+> *"Code is a tool. Freedom is the goal."*
