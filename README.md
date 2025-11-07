@@ -19,7 +19,7 @@ If you're working on something cool and think I could be a good fit — feel fre
 
 ### 💡 Fun Facts
 - ♟️ I love chess — both playing and studying strategy.
-- 🏔️ I'm into hiking and mountaineering. I like reaching new heights — in code and in nature.
+- 🏔️ I'm into hiking and mountaineering.
 - 🧠 Self-driven learner always exploring new tech and tools.
 
 ---
